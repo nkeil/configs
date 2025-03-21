@@ -1,2 +1,4 @@
-# vscode-settings
-My custom settings for VS Code
+# Configs
+
+* `settings.json`: vscode settings
+* `.zshrc`: zsh / omz / p10k settings
